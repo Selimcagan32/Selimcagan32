@@ -1,16 +1,24 @@
-## Hi there 👋
+<img align="right" width="380" src="assets/portre.png" alt="Selim">
 
-<!--
-**Selimcagan32/Selimcagan32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋 I'm Selim
 
-Here are some ideas to get you started:
+**Computer Engineering student at Süleyman Demirel University, Türkiye**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🤖 Working on machine learning, computer vision and ROS2
+- 🚤 Building autonomous systems for Teknofest
+- 🌱 Currently learning Spring Boot and full-stack development
+
+<br clear="right"/>
+
+## 🛠️ Tech Stack
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,java,c,cs,spring,react,js,html,css,opencv,ros,sklearn,git,github,vscode,vercel&perline=8" alt="Tech Stack" />
+</p>
+
+## 📊 GitHub Stats
+
+<p align="left">
+  <img src="metrics.languages.svg" width="49%" alt="Most used languages" />
+  <img src="metrics.isocalendar.svg" width="49%" alt="Contributions calendar" />
+</p>
