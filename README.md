@@ -8,9 +8,20 @@
 
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=py,java,c,cs,spring,react,js,html,css,opencv,ros,sklearn,git,github,vscode,vercel&perline=8" alt="Tech Stack" />
-</p>
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=py,java,c,cs,js" />
+
+### 🌐 Web & Backend
+<img src="https://skillicons.dev/icons?i=spring,react,html,css" />
+
+### 🤖 ML & Data Science
+<img src="https://skillicons.dev/icons?i=sklearn" />
+
+### 🚤 Robotics & Computer Vision
+<img src="https://skillicons.dev/icons?i=ros,opencv" />
+
+### ⚙️ DevOps & Tools
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel" />
 
 ## 📊 GitHub Stats
 
