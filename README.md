@@ -1,5 +1,3 @@
-<img align="right" width="380" src="assets/portre.png" alt="Selim">
-
 # Hi there 👋 I'm Selim
 
 **Computer Engineering student at Süleyman Demirel University, Türkiye**
@@ -7,8 +5,6 @@
 - 🤖 Working on machine learning, computer vision and ROS2
 - 🚤 Building autonomous systems for Teknofest
 - 🌱 Currently learning Spring Boot and full-stack development
-
-<br clear="right"/>
 
 ## 🛠️ Tech Stack
 
