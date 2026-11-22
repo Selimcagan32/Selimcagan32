@@ -6,7 +6,4 @@ I'm interested in artificial intelligence, machine learning, data science and da
 
 ## 📊 GitHub Stats
 
-<p align="left">
-  <img src="metrics.languages.svg" width="49%" alt="Most used languages" />
-  <img src="metrics.isocalendar.svg" width="49%" alt="Contributions calendar" />
-</p>
+<img src="metrics.languages.svg" width="49%" alt="Most used languages" />
