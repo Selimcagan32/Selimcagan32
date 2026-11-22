@@ -9,19 +9,10 @@
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-<img src="https://skillicons.dev/icons?i=py,java,c,cs,js" />
+<img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,c,cs,javascript,sqlserver" />
 
-### 🌐 Web & Backend
-<img src="https://skillicons.dev/icons?i=spring,react,html,css" />
-
-### 🤖 ML & Data Science
-<img src="https://skillicons.dev/icons?i=sklearn" />
-
-### 🚤 Robotics & Computer Vision
-<img src="https://skillicons.dev/icons?i=ros,opencv" />
-
-### ⚙️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vercel" />
+### 📊 Data & AI
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scikitlearn,matplotlib,seaborn,jupyter,googlecolab" />
 
 ## 📊 GitHub Stats
 
