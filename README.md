@@ -1,18 +1,8 @@
 # Hi there 👋 I'm Selim
 
-**Computer Engineering student at Süleyman Demirel University, Türkiye**
+I'm interested in artificial intelligence, machine learning, data science and data analysis. Most of my projects focus on working with data and building models.
 
-- 🤖 Working on machine learning, computer vision and ROS2
-- 🚤 Building autonomous systems for Teknofest
 - 🌱 Currently learning Spring Boot and full-stack development
-
-## 🛠️ Tech Stack
-
-### 💻 Languages
-<img src="https://go-skill-icons.vercel.app/api/icons?i=python,java,c,cs,javascript,sqlserver" />
-
-### 📊 Data & AI
-<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,scikitlearn,matplotlib,seaborn,jupyter,googlecolab" />
 
 ## 📊 GitHub Stats
 
